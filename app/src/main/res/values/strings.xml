@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">New York Schools</string>
+    <string name="base_url">https://data.cityofnewyork.us/resource/</string>
+    <string name="sat_scores_endpoint">f9bf-2cp4.json</string>
+    <string name="school_list_endpoint">s3k6-pzi2.json</string>
+    <string name="no_data_connection">No Connection</string>
+    <string name="no_data">No Data</string>
+    <string name="email">Email: %1$s</string>
+    <string name="phone">Phone: %1$s</string>
+    <string name="website">Website: %1$s</string>
+    <string name="fax">Fax: %1$s</string>
+    <string name="avg_writing">Avg. Writing: %1$s</string>
+    <string name="avg_math">Avg. Math: %1$s</string>
+    <string name="avg_reading">Avg. Reading: %1$s </string>
+    <string name="test_takers">Amount of tests: %1$s</string>
+</resources>
